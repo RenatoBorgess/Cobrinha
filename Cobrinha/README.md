@@ -20,7 +20,7 @@ Para compilar e executar o jogo, siga as seguintes etapas:
 Abra o terminal e navegue para o diretório onde o repositório foi clonado:
 
 ```
-cd jogo-cobrinha
+cd Cobrinha
 ``` 
 Compile o código-fonte do jogo com o seguinte comando:
 ```
