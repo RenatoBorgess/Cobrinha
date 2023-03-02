@@ -9,8 +9,7 @@ Git
 Clonando o repositório
 Para baixar o código-fonte do jogo, você precisa clonar o repositório do GitHub. Abra o terminal e execute o seguinte comando:
 
-bash
-Copy code
+
 git clone https://github.com/RenatoBorgess/Cobrinha.git
 Isso baixará o repositório para um diretório local chamado Cobrinha.
 
