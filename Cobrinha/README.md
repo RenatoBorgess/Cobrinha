@@ -44,7 +44,7 @@ Execute o jogo com o seguinte comando:
 
 
 ```
-java jogosborges.br.Cobrinha
+java jogosborges.br.JogoCobrinha
 ```
 
 
