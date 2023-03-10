@@ -6,9 +6,11 @@ Este arquivo README irá guiá-lo através dos passos necessários para executar
 Antes de começar, verifique se você tem o seguinte instalado em sua máquina:
 
 Java Development Kit (JDK)
+
 Git
 
 ## Clonando o repositório
+
 Para baixar o código-fonte do jogo, você precisa clonar o repositório do GitHub. Abra o terminal e execute o seguinte comando:
 
 ```git clone https://github.com/RenatoBorgess/Cobrinha.git```
